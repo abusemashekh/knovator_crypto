@@ -44,7 +44,6 @@ class CoinRepository {
 
     if (response.statusCode == 200) {
       final data = jsonDecode(response.body) as Map<String, dynamic>;
-      log("Data-->${data.toString()}");
       return data.map((k, v) => MapEntry(k, (v['usd'] as num).toDouble()));
     } else if (response.statusCode == 429) {
       throw Exception(_rateLimitMessage);

@@ -18,8 +18,8 @@ This project is a Flutter application using Flutter SDK version 3.32.8 (or a rec
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/abusemashekh/knovator_crypto.git
+cd knovator_crypto
 ```
 
 2. **Install dependencies**
@@ -48,9 +48,9 @@ flutter build apk --release
 
 * The generated APK will be in `build/app/outputs/flutter-apk/app-release.apk`
 
-* **Working APK (public access):** `https://example.com/your-app.apk`
+* **Working APK (public access):** `https://drive.google.com/file/d/1bf2ytKuMvZvF2PyG4OsGCRdKTjohXsNe/view?usp=sharing`
 
-* **Screen Recording:** `https://example.com/your-video.mp4`
+* **Screen Recording:** `https://drive.google.com/file/d/1CP8Aj-4bOX2KuW3qRaRCQ_v4SRFZD_YG/view?usp=sharing`
 
 ---
 
